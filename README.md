@@ -2,9 +2,9 @@
 Exploring the depths of advanced analytics techniques.
 👋 Hey there! I'm David Shapiro
 About Me 🌐
-🔍 I've spent over a decade serving as a career intelligence officer and have recently been an Operations Research Systems Analyst (ORSA) for about two years. 
+🔍 I've spent over a decade serving as a career DoD employee and have recently taken a job as an Operations Research Systems Analyst (ORSA). 
 
-🌟 My journey kicked off in special operations, where I took on the challenges of big-data analytics in the intelligence community. This led me to specialize in analytics and venture into other exciting roles.
+I plan to work my way through O'Reily's Python for Machine Learning using Sci-Kit, TensorFlow, and Keras and posting my progress on this hub. Thank you for checking it out!
 
 🎓 Education
 📚 Master of Science in Business Analytics
