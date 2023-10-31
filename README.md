@@ -1,10 +1,6 @@
-# HandsOn Machine Learning (End to End Project Book)
-Exploring the depths of advanced analytics techniques.
-👋 Hey there! I'm David Shapiro
-About Me 🌐
-🔍 I've spent over a decade serving as a career DoD employee and have recently taken a job as an Operations Research Systems Analyst (ORSA). 
+🛠️ Practical Dive into Machine Learning with Scikit-Learn
 
-I plan to work my way through O'Reily's Python for Machine Learning using Sci-Kit, TensorFlow, and Keras and posting my progress on this hub. Thank you for checking it out!
+Welcome to my repository chronicling my hands-on journey through O'Reilly's "Hands-On Machine Learning with Scikit-Learn." Despite a demanding full-time role, I've committed to progressing through this book, applying each chapter's lessons on practical projects which are shared here. Each folder corresponds to a chapter, showcasing the code, key takeaways, and insights gained. This endeavor reflects my drive to enhance my technical expertise in machine learning amidst real-world data challenges. 📊 Your insights and feedback are highly valued as I continue this learning voyage. 🚀
 
 🎓 Education
 📚 Master of Science in Business Analytics
