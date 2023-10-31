@@ -4,7 +4,6 @@ Welcome to my repository chronicling my hands-on journey through O'Reilly's "Han
 
 🎓 Education
 📚 Master of Science in Business Analytics
-📚 Master of Military Science
 
 🛠️ Technical Skills
 Data Collection
