@@ -1,4 +1,4 @@
-# DataDiveHub
+# HandsOn Machine Learning (End to End Project Book)
 Exploring the depths of advanced analytics techniques.
 👋 Hey there! I'm David Shapiro
 About Me 🌐
